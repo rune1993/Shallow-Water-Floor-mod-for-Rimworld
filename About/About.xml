@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+   <name>Shallow Water Floor Tile</name>
+   <author>rune1993</author>
+   <supportedVersions>
+     <li>1.2</li>
+   </supportedVersions>
+   <packageId>rune1993.ShallowWaterFloorTile</packageId>
+   <description>V1.2 This mod adds shallow water as a floor tile you can place down.</description>
+</ModMetaData>
