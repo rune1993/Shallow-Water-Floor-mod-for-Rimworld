@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+   <TerrainDef ParentName="WaterShallowBase">
+    <defName>RuneWaterShallow</defName>
+    <label>shallow water</label>
+    <texturePath>Terrain/Surfaces/WaterShallowRamp</texturePath>
+    <waterDepthShader>Map/WaterDepth</waterDepthShader>
+    <renderPrecedence>394</renderPrecedence>
+     <costList>
+      <WoodLog>2</WoodLog>
+     </costList>
+     <designationCategory>Floors</designationCategory>
+	<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <layerable>true</layerable>
+  </TerrainDef>
+
+</Defs>
