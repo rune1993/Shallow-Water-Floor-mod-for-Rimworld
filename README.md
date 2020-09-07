@@ -6,4 +6,6 @@ All this mod does is make it so you can place shallow water as flooring it has t
 When you download this mod add teh folder you get in the zipped folder to the mod folder that isin the main game folder
 (If you want to use this mod or anything from it witch is not much lol in a mod you are making or a video please just mention me and a link to this mod thanks as i dont really mind if you use it at all)
 
+Change Log - i have updated the mod file to add a new floor called fertile water it has 1.25 fertility and allows you to grow crops on it.
+
 This mod is on steam and nexus mods with i will add a link that you may need to copy and paste to use on this. steam link - https://steamcommunity.com/sharedfiles/filedetails/?id=2217225014 nexus mods link - https://www.nexusmods.com/rimworld/mods/346
