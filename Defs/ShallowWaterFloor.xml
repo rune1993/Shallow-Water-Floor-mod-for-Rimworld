@@ -14,5 +14,32 @@
 	<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
     <layerable>true</layerable>
   </TerrainDef>
+	
+    <TerrainDef ParentName="WaterShallowBase">
+    <defName>RuneFertileWater</defName>
+    <label>Fertile water</label>
+    <texturePath>Terrain/Surfaces/WaterShallowRamp</texturePath>
+    <waterDepthShader>Map/WaterDepth</waterDepthShader>
+    <renderPrecedence>394</renderPrecedence>
+     <costList>
+      <WoodLog>2</WoodLog>
+     </costList>
+     <designationCategory>Floors</designationCategory>
+	<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <layerable>true</layerable>
+    <pathCost>0</pathCost>
+    
+<resourcesFractionWhenDeconstructed>0.4</resourcesFractionWhenDeconstructed>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+      <li>GrowSoil</li>
+      <li>Diggable</li>
+    </affordances>   
+    <fertility>1.25</fertility>
+
+</TerrainDef>
+   
 
 </Defs>
