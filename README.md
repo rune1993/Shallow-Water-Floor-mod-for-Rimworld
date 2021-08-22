@@ -1,4 +1,9 @@
 # Shallow-Water-Floor-mod-for-Rimworld
+ 
+ (Sadly this page for the mod will not be updated again as i find it rather tricky to update on this page so please use the link to nexus or steam to download thank you)
+ 
+ 
+ 
  This is a mod that adds shallow water as a floor you can make and destroy for the game Rimworld pleas read the readme for more info on what to install.
 This is just a mod for Rimworld someone suggested i put it on this site so i hope this is rite place to put it i am not doing any projects this was just to post the mod thanks you.
 
